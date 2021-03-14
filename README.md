@@ -2,6 +2,7 @@
 **Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/tunnaduong?tab=repositories) represent my journey :running_man: - From **being curious** with *PHP* to *Javascript* and Now I'm focusing to PHP and I was starting to love PHP so I decided to spend a lot of time on learning PHP and Javascript. 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tunnaduong&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tunnaduong&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/tunnaduong) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=tunnaduong.visitor-badge)](https://github.com/tunnaduong) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tunnaduong)
 
