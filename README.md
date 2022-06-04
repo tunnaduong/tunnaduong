@@ -8,8 +8,8 @@
 
 <!-- <sup>**[Click here](https://github.com/iamvucms/jobtweets/blob/master/PROJECTS.md)** *to view my other projects.</sup>* -->
 
-- 🔭 I’m currently working on PHP in Ha Nam, Viet Nam
-- 🌱 I’m currently learning Software Engineering major at FPT University Hanoi Vietnam
+- 🔭 I’m currently working on web and mobile development in Hanoi, Vietnam
+- 🌱 I’m currently learning Software Engineering major at FPT University Hanoi
 - 👯 I’m looking to collaborate on Javascript, PHP
 - 🤔 I’m looking for help with HTML, CSS Animation
 - 💬 Ask me about HTML, CSS, Javascript, PHP, React.js, React Native
