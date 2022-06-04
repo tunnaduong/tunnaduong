@@ -9,10 +9,10 @@
 <!-- <sup>**[Click here](https://github.com/iamvucms/jobtweets/blob/master/PROJECTS.md)** *to view my other projects.</sup>* -->
 
 - 🔭 I’m currently working on PHP in Ha Nam, Viet Nam
-- 🌱 I’m currently learning React Native, Swift
-- 👯 I’m looking to collaborate on Javascript
+- 🌱 I’m currently learning Software Engineering major at FPT University Hanoi Vietnam
+- 👯 I’m looking to collaborate on Javascript, PHP
 - 🤔 I’m looking for help with HTML, CSS Animation
-- 💬 Ask me about HTML, CSS, Javascript, PHP
+- 💬 Ask me about HTML, CSS, Javascript, PHP, React.js, React Native
 - 📫 How to reach me: [**Facebook**](https://www.facebook.com/tunnaduong)
 - ⚡ Fun fact: Nothing be limit, limit in your thoughts
 <!--
