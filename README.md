@@ -4,16 +4,14 @@
 [![Tunna Duong's github stats](https://readme-stats.clckblog.space/api?username=tunnaduong&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=tunnaduong&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/tunnaduong) [![Visitors](https://visitor-badge.glitch.me/badge?page_id=tunnaduong.visitor-badge)](https://github.com/tunnaduong) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tunnaduong)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/tunnaduong) [![HitCount](https://hits.dwyl.com/tunnaduong/tunnaduong.svg?style=flat-square)](http://hits.dwyl.com/tunnaduong/tunnaduong) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tunnaduong)
 
-<!-- <sup>**[Click here](https://github.com/iamvucms/jobtweets/blob/master/PROJECTS.md)** *to view my other projects.</sup>* -->
-
-- 🔭 I’m currently working on web and mobile development in Hanoi, Vietnam
-- 🌱 I’m currently learning Software Engineering major at FPT University Hanoi
+- 🔭 I’m currently working on web and mobile development in Ha Nam, Vietnam
+- 🌱 I’m currently learning Web Programming major at FPT Polytechnic Ha Nam
 - 👯 I’m looking to collaborate on Javascript, PHP
-- 🤔 I’m looking for help with HTML, CSS Animation
-- 💬 Ask me about HTML, CSS, Javascript, PHP, React.js, React Native
-- 📫 How to reach me: [**Facebook**](https://www.facebook.com/tunnaduong)
+- 🤔 I’m looking for help with React Native, CSS Animation
+- 💬 Ask me about HTML, CSS, Javascript, PHP, React.js, React Native, MySQL
+- 📫 How to reach me: [**Facebook**](https://www.facebook.com/tunna.duong)
 - ⚡ Fun fact: Nothing be limit, limit in your thoughts
 <!--
 **tunnaduong/tunnaduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
