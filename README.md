@@ -1,10 +1,19 @@
 ### Hi there 👋
 **Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/tunnaduong?tab=repositories) represent my journey :running_man: - From **being curious** with *PHP* to *Javascript* and Now I'm focusing to PHP and I was starting to love PHP so I decided to spend a lot of time on learning PHP and Javascript. 
 
-[![Tunna Duong's github stats](https://readme-stats.clckblog.space/api?username=tunnaduong&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=tunnaduong&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/tunnaduong) [![HitCount](https://hits.dwyl.com/tunnaduong/tunnaduong.svg?style=flat-square)](http://hits.dwyl.com/tunnaduong/tunnaduong) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/tunnaduong)
+<div align="center">
+  <img src="https://readme-stats.clckblog.space/api?username=tunnaduong&show_icons=true" />
+  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=tunnaduong&hide=hack" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats-ruby-psi.vercel.app?user=tunnaduong&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat" />
+</div>
+<br>
+<div align=center>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github" />
+  <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
+</div>
+<br>
 
 - 🔭 I’m currently working on web and mobile development in Ha Nam, Vietnam
 - 🌱 I’m currently learning Web Programming major at FPT Polytechnic Ha Nam
@@ -13,6 +22,23 @@
 - 💬 Ask me about HTML, CSS, Javascript, PHP, React.js, React Native, MySQL
 - 📫 How to reach me: [**Facebook**](https://www.facebook.com/tunna.duong)
 - ⚡ Fun fact: Nothing be limit, limit in your thoughts
+
+<h2 align="center">🌐 Socials 🌐</h2>
+<br>
+<div align="center">
+  <a href="https://facebook.com/tunna.duong" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
+  </a>
+  <a href="https://linkedin.com/in/tunganh03" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="linkedin" />
+  </a>
+  <a href="https://instagram.com/tunna.dg" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
+  </a>
+  <a href="mailto:tunnaduong@gmail.com" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
+  </a>
+</div>
 <!--
 **tunnaduong/tunnaduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
