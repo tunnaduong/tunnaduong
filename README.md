@@ -35,7 +35,7 @@
   <a href="https://instagram.com/tunna.dg" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram" />
   </a>
-  <a href="mailto:tunnaduong@gmail.com" target="blank">
+  <a href="mailto:contact@tunnaduong.com" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
 </div>
