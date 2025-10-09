@@ -2,8 +2,8 @@
 **Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/tunnaduong?tab=repositories) represent my journey :running_man: - From **being curious** with *PHP* to *Javascript* and Now I'm focusing to PHP and I was starting to love PHP so I decided to spend a lot of time on learning PHP and Javascript. 
 
 <div align="center">
-  <img src="https://readme-stats.clckblog.space/api?username=tunnaduong&show_icons=true" />
-  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=tunnaduong&hide=hack" />
+  <img src="https://tunna-readme-stats.vercel.app/api?username=tunnaduong&show_icons=true" />
+  <img src="https://tunna-readme-stats.vercel.app/api/top-langs/?username=tunnaduong&hide=hack" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats-ruby-psi.vercel.app?user=tunnaduong&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat" />
