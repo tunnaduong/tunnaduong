@@ -10,6 +10,7 @@
 </div>
 <br>
 <div align=center>
+  <img src="https://visitorbadge.vercel.app//api/badge/a3a37ede-ebc8-42ff-ad33-cd3ef1a44bf1?style=flat&color=ffd700&labelColor=000000" />
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github" />
   <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
 </div>
