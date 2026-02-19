@@ -1,5 +1,11 @@
-### Hi there 👋
-**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/tunnaduong?tab=repositories) represent my journey :running_man: - From **being curious** with *PHP* to *Javascript* and Now I'm focusing to PHP and I was starting to love PHP so I decided to spend a lot of time on learning PHP and Javascript. 
+
+
+## 👋 Hi, I'm Tung Anh
+
+I'm the creator of [CBH Online](https://www.chuyenbienhoa.com), [C4K60](https://c4k60.com), and several open source projects like [marzipano-importer](https://github.com/tunnaduong/marzipano-importer), and [aapanel-deploy-action](https://github.com/tunnaduong/aapanel-deploy-action).
+
+I’m passionate about building elegant, fast, and scalable apps — from open-source tools to production-ready consumer platforms.
+
 
 <div align="center">
   <img src="https://tunna-readme-stats.vercel.app/api?username=tunnaduong&show_icons=true" />
@@ -16,18 +22,22 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on web and mobile development in Ha Nam, Vietnam
-- 🌱 I’m currently learning Web Programming major at FPT Polytechnic Ha Nam
-- 👯 I’m looking to collaborate on Javascript, PHP
-- 🤔 I’m looking for help with React Native, CSS Animation
-- 💬 Ask me about HTML, CSS, Javascript, PHP, React.js, React Native, MySQL
-- 📫 How to reach me: [**Facebook**](https://www.facebook.com/tunna.duong)
-- ⚡ Fun fact: Nothing be limit, limit in your thoughts
+---
+
+### 🛠️ Tech I enjoy working with
+
+- **Programming Language:** PHP, Java, JavaScript, SQL, C/C++, C#
+- **Backend Framework:** Laravel (PHP), Spring Boot (Java), ASP.net (C#)
+- **Frontend Framework:** Vue (JavaScript), React (JavaScript)
+- **Mobile Framework:** React Native (JavaScript), Flutter (Dart)
+- **Database Engine:** Sqlite, PostgreSQL, MySQL
+
+For more information, please visit https://tunnaduong.com
 
 <h2 align="center">🌐 Socials 🌐</h2>
 <br>
 <div align="center">
-  <a href="https://facebook.com/tunna.duong" target="blank">
+  <a href="https://facebook.com/tunnaduong" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook" />
   </a>
   <a href="https://linkedin.com/in/tunganh03" target="blank">
@@ -40,17 +50,3 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
 </div>
-<!--
-**tunnaduong/tunnaduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
