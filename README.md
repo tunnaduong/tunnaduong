@@ -16,7 +16,7 @@ I’m passionate about building elegant, fast, and scalable apps — from open-s
 </div>
 <br>
 <div align=center>
-  <img src="https://visitor-badge.vercel.app/api/badge/a3a37ede-ebc8-42ff-ad33-cd3ef1a44bf1?style=flat&color=ffd700&labelColor=000000" />
+  <img src="https://visitor-badge.lithub.cc/badge?page_id=tunnaduong.readme.github&left_color=red&right_color=green" />
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github" />
   <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
 </div>
