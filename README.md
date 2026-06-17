@@ -8,15 +8,15 @@ I’m passionate about building elegant, fast, and scalable apps — from open-s
 
 
 <div align="center">
-  <img src="https://tunna-readme-stats.vercel.app/api?username=tunnaduong&show_icons=true" />
-  <img src="https://tunna-readme-stats.vercel.app/api/top-langs/?username=tunnaduong&hide=hack" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tunnaduong&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunnaduong&hide=hack" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats-ruby-psi.vercel.app?user=tunnaduong&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat" />
+  <img src="https://streak-stats.demolab.com?user=tunnaduong&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat" />
 </div>
 <br>
 <div align=center>
-  <img src="https://visitorbadge.vercel.app//api/badge/a3a37ede-ebc8-42ff-ad33-cd3ef1a44bf1?style=flat&color=ffd700&labelColor=000000" />
+  <img src="https://visitor-badge.vercel.app/api/badge/a3a37ede-ebc8-42ff-ad33-cd3ef1a44bf1?style=flat&color=ffd700&labelColor=000000" />
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github" />
   <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
 </div>
